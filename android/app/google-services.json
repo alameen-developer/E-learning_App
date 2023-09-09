@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197187299141",
+    "project_id": "ilearning-app-af59b",
+    "storage_bucket": "ilearning-app-af59b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197187299141:android:0b4851a0dcd3ff0055402c",
+        "android_client_info": {
+          "package_name": "com.learning.ilearningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197187299141-i797bg3d40d5vg0vcqlk642cnm1g9ti1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZ8VOm73MM45-OSmaDaQZWy_NspmE8sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197187299141-i797bg3d40d5vg0vcqlk642cnm1g9ti1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
